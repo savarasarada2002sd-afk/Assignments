@@ -3,8 +3,9 @@ package Operators;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hi this is Bytecode");
+		System.out.println("Hi");
 
 	}
 
 }
+
